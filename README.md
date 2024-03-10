@@ -1,0 +1,1 @@
+# Тестовое задание на Intern Data Engineer для MindBox. 2 Вопрос.
